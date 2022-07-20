@@ -3,8 +3,8 @@
 ### Sou graduado em Engenharia de Controle e Automação pela PUCRS e apaixonado por programação e tecnologia!
 
 
-- 🔭 Atualmente trabalho como Operador de Linha de Montagem de Equipamentos Eletrônicos
-- 🌱 Busco aprender mais sobre linguagens de programação
+- 🔭  Atualmente trabalho como Operador de Linha de Montagem de Equipamentos Eletrônicos
+- 🌱  Busco aprender mais sobre linguagens de programação
 
 <div> 
   <a href = "mailto:l.kusterr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
