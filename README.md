@@ -1,10 +1,12 @@
 ## Olá, me chamo Leonardo Cristiano!
 
-### Sou graduado em Engenharia de Controle e Automação pela PUCRS e apaixonado por programação e tecnologia!
+### Sou pós-graduando em Desenvolvimento Full Stack pela PUCRS e apaixonado por programação e tecnologia!
 
 
-- 🔭  Atualmente trabalho como Operador de Linha de Montagem de Equipamentos Eletrônicos
-- 🌱  Busco aprender mais sobre linguagens de programação
+- 👨🏼‍🎓  Graduado em Engenharia de Controle e Automação pela PUCRS
+- 📚  Estudante de pós-graduação em Desenvolvimento Full Stack  
+- 🔭  Atualmente trabalhando como Operador de Linha de Montagem de Equipamentos Eletrônicos
+- 🌱  Busco aprender mais sobre linguagens de programação e desenvolvimento Full Stack
 
 <div> 
   <a href = "mailto:l.kusterr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
