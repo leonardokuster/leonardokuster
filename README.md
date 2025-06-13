@@ -5,7 +5,7 @@
 
 - 👨🏼‍🎓  Graduado em Engenharia de Controle e Automação pela PUCRS
 - 📚  Estudante de pós-graduação em Desenvolvimento Full Stack  
-- 🔭  Atualmente trabalhando como Operador de Linha de Montagem de Equipamentos Eletrônicos
+- 🔭  Atualmente trabalhando como Analista de Produção
 - 🌱  Busco aprender mais sobre linguagens de programação e desenvolvimento Full Stack
 
 <div> 
