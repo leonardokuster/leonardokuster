@@ -4,8 +4,8 @@
 
 
 - 👨🏼‍🎓  Graduado em Engenharia de Controle e Automação pela PUCRS
-- 📚  Estudante de pós-graduação em Desenvolvimento Full Stack  
-- 🔭  Atualmente trabalhando como Analista de Produção
+- 📚  Estudante de pós-graduação em Desenvolvimento Full Stack e Design UX/UI
+- 🔭  Atualmente em transição de carreira
 - 🌱  Busco aprender mais sobre linguagens de programação e desenvolvimento Full Stack
 
 <div> 
