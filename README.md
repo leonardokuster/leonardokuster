@@ -1,10 +1,10 @@
 ## Olá, me chamo Leonardo Cristiano!
 
-### Sou pós-graduando em Desenvolvimento Full Stack pela PUCRS e apaixonado por programação e tecnologia!
+### Sou pós-graduado em Desenvolvimento Full Stack pela PUCRS e apaixonado por programação e tecnologia!
 
 
-- 👨🏼‍🎓  Graduado em Engenharia de Controle e Automação pela PUCRS
-- 📚  Estudante de pós-graduação em Desenvolvimento Full Stack e Design UX/UI
+- 👨🏼‍🎓  Pós-graduado em Desenvolvimento Full Stack e graduado em Engenharia de Controle e Automação pela PUCRS
+- 📚  Estudante de Design UX/UI pela EBAC
 - 🔭  Atualmente em transição de carreira
 - 🌱  Busco aprender mais sobre linguagens de programação e desenvolvimento Full Stack
 
