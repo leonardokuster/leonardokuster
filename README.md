@@ -15,22 +15,18 @@
 
 ### 🛠️ Tecnologias que tenho estudado
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,postgres,sequelize,git,figma" />
+  <a href="https://github.com/leonardokuster">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,postgres,sequelize,git,figma" />
+  </a>
 </div>
 
 ---
 
 ### 📫 Onde me encontrar
 <div>
-  <a href="mailto:l.kusterr@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/leonardokuster/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/leonardokuster" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+  <a href="mailto:l.kusterr@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/leonardokuster/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"/></a>&nbsp;&nbsp;
+  <a href="https://instagram.com/leonardokuster" target="_blank"><img src="https://skillicons.dev/icons?i=instagram"/></a>
 </div>
 
 ---
