@@ -1,6 +1,6 @@
 <h1>👋 Olá, eu sou o Leonardo Cristiano!</h1>
 
-<h3>💻 Pós-graduado em Desenvolvimento Full Stack | 🎨 Estudante de UX/UI Design | 🚀 Apaixonado por tecnologia</h3>
+<h3>💻 Pós-graduado em Desenvolvimento Full Stack | 🎨 UX/UI Designer | 🚀 Apaixonado por tecnologia</h3>
 
 ---
 
@@ -16,7 +16,7 @@
 ### 🛠️ Tecnologias que tenho estudado
 <div>
   <a href="https://github.com/leonardokuster">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,postgres,sequelize,git,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,java,postgres,sequelize,git,figma" />
   </a>
 </div>
 
